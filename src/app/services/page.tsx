@@ -207,7 +207,7 @@ export default function ServicesPage() {
                             Ready to Get Started?
                         </h2>
                         <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-                            Let's discuss your project and see how we can help you achieve your goals
+                            Let&apos;s discuss your project and see how we can help you achieve your goals
                             with our comprehensive digital services.
                         </p>
                         <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100" asChild>
