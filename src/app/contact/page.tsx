@@ -19,14 +19,14 @@ export default function ContactPage() {
                         transition={{ duration: 0.8 }}
                     >
                         <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-                            Let's Build Something
+                            Let&apos;s Build Something
                             <span className="bg-gradient-to-r from-blue-200 to-purple-200 bg-clip-text text-transparent">
                 {" "}Amazing
               </span>
                         </h1>
                         <p className="text-xl text-blue-100 max-w-3xl mx-auto">
                             Ready to transform your ideas into reality? Get in touch with our team
-                            and let's start your next digital project.
+                            and let&apos;s start your next digital project.
                         </p>
                     </motion.div>
                 </div>
@@ -108,8 +108,8 @@ export default function ContactPage() {
                             <div>
                                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Get in touch</h2>
                                 <p className="text-lg text-gray-600 mb-8">
-                                    We're here to help you succeed. Whether you have a question about our services,
-                                    need a quote, or want to discuss your project, we'd love to hear from you.
+                                    We&apos;re here to help you succeed. Whether you have a question about our services,
+                                    need a quote, or want to discuss your project, we&apos;d love to hear from you.
                                 </p>
                             </div>
 
